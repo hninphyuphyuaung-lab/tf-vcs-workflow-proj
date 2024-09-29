@@ -7,7 +7,7 @@ variable "prefix" {
 variable "aws_region" {
   type        = string
   description = "AWS region used for all resources"
-  default     = "us-east-1"
+  default     = "ap-east-1"
 }
 
 variable "aws_zone" {
